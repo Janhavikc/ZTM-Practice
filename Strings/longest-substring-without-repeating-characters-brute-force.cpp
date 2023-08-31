@@ -2,6 +2,7 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int longestLen=0;
+        if(s.length()<=1) return s.length();
         for(int left=0; left<s.length(); left++){
             map<char, bool>currentChar;
             int currentLength=0;
