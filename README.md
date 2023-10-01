@@ -16,4 +16,5 @@ Valid Parentheses| https://leetcode.com/problems/valid-parentheses/
 Minimum Remove to Make Valid Parentheses| https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 Implement Queue using Stacks| https://leetcode.com/problems/implement-queue-using-stacks/
 Kth Largest Element in an Array| https://leetcode.com/problems/kth-largest-element-in-an-array/
-Find First and Last Position of Element in Sorted Array| https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+Find First and Last Position of Element in Sorted Array| https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+Maximum Depth of Binary Tree| https://leetcode.com/problems/maximum-depth-of-binary-tree/
